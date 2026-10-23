@@ -1,0 +1,5 @@
+build/
+rvsim
+*.o
+*.elf
+*.bin
